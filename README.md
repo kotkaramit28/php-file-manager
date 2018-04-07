@@ -1,12 +1,13 @@
 # php-file-manager
 PHP File Manager
 
-Advanced PHP File Manager in a single file.
-Fully responsive file manager with Web 2.0 support.
+Advanced PHP File Manager in a single file.<br>
+Fully responsive file manager with Web 2.0 support.<br>
 Inspired by https://github.com/prasathmani/tinyfilemanager
 
 <hr>
-<img src="img.gif">
+<img src="fm1.jpg">
+<img src="fm2.jpg">
 
 ## Requirements
 
