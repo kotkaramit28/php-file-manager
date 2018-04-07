@@ -6,7 +6,7 @@ Fully responsive file manager with Web 2.0 support.
 Inspired by https://github.com/prasathmani/tinyfilemanager
 
 <hr>
-<img src="images.gif">
+<img src="img.gif">
 
 ## Requirements
 
